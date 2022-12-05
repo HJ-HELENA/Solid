@@ -14,6 +14,8 @@ class Cat extends Animal implements Speakable{
 	}
 }
 
+
+
 class Cow extends Animal implements Speakable{
 	public void speak() {
 	    System.out.println("음머");
