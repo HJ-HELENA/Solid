@@ -12,10 +12,16 @@ public class Person {
 	public void sleep() {
 		System.out.println("잔다");
 	}
-	
-	public class programmer extends Person{
+}	
+	class programmer extends Person{
 		public void coding() {
 			System.out.println("코딩한다");
 		}
 	}
-}
+
+	class pianist extends Person{
+		public void playPiano() {
+			System.out.println("피아노를 친다");
+		}
+	}
+
