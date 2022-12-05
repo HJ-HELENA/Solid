@@ -26,7 +26,7 @@ class Cow extends Animal implements Speakable{
 	}
 }
 
-//fish는 소리를 낼 수 없으므로 speakalbe interface를 implement 할 수 없다
+//fish는 소리를 낼 수 없으므로 speakal interface를 implement 할 수 없다
 class Fish extends Animal {
 	
 }
