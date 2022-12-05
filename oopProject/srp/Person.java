@@ -1,7 +1,7 @@
 package solid.srp;
 
 // 단일책임원칙
-// 하나의 클래스는 하나의 액터만을 담
+// 하나의 클래스는 하나의 액터만을 담당한다
 public class Person {
 	private String name; // 캡슐화
 	private int age;
