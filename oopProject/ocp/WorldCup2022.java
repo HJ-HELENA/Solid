@@ -26,7 +26,7 @@ class Portugal extends WorldCup2022 {
  class Brazil extends WorldCup2022 {
 
 	public void Captain() {
-		System.out.println("");
+		System.out.println("실바");
 	}
 } 
 
